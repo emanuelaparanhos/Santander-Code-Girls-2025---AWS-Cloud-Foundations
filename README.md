@@ -1,13 +1,10 @@
 Desafio AWS CloudFormation - Bootcamp Santander Code Girls 2025
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+Olá! Bem-vindo(a) ao meu repositório do desafio prático de AWS CloudFormation do Bootcamp Santander Code Girls 2025.
+#CodeGirls2025 #WomenInTech
 ```
-Olá! Bem-vindo(a) ao meu repositório do desafio prático de AWS CloudFormation do Bootcamp Santander Code Girls 2025. Neste projeto completo, implementei Infrastructure as Code (IaC) para provisionar recursos AWS de forma automatizada, idempotente e declarativa. Comecei com uma stack básica (S3 Bucket privado + IAM Role) e evolui para uma versão avançada com condições, parâmetros dinâmicos e tags automáticas – demonstrando progressão de conceitos das aulas.
 
-O foco é aplicar templates YAML, monitoramento de stacks e boas práticas de IaC. Tudo testado na região us-east-1 (N. Virginia) com AWS. #CodeGirls2025 #WomenInTech
 
 Por Que CloudFormation?
 IaC: Define infraestrutura em código (YAML/JSON), facilitando versionamento no GitHub e deploys repetíveis.
