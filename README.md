@@ -1,4 +1,4 @@
-Desafio AWS CloudFormation - Bootcamp Santander Code Girls 2025
+#Desafio AWS CloudFormation - Bootcamp Santander Code Girls 2025
 
 ```
 Olá! Bem-vindo(a) ao meu repositório do desafio prático de AWS CloudFormation do Bootcamp Santander Code Girls 2025.
@@ -6,17 +6,9 @@ Olá! Bem-vindo(a) ao meu repositório do desafio prático de AWS CloudFormation
 ```
 
 
-Por Que CloudFormation?
-IaC: Define infraestrutura em código (YAML/JSON), facilitando versionamento no GitHub e deploys repetíveis.
-Benefícios: Automatiza criação/atualização/deleção de recursos (ex.: S3 + IAM), reduz erros manuais e integra com CI/CD.
-Meu Caso: Stack básica para armazenamento seguro (S3 com role IAM); evolução para cenários reais (condições para dev/prod no Santander).
-Pré-requisitos
-Conta AWS gratuita (Free Tier): Crie em aws.amazon.com se não tiver.
-Console AWS: Acesse via console.aws.amazon.com (use root user para simplicidade).
-Editor de texto: Bloco de Notas ou VS Code para editar o YAML.
-GitHub: Repo criado para versionar templates e imagens.
-Região: Use us-east-1 para compatibilidade.
-Aviso: Monitore custos no Free Tier (S3 e IAM são gratuitos para volumes baixos). Delete stacks após testes!
+##Introdução à AWS e Conceitos Básicos
+**Amazon EBS** – Elastic Block Store (EBS), nada mais é do que uma storage altamente confiável que pode ser anexado em qualquer instância EC2. Toda instância possui um volume de armazenamento.
+
 
 Projeto 1: Stack Básica (minha-primeira-stack.yaml)
 O template inicial define 2 recursos principais:
