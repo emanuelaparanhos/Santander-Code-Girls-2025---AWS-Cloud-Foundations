@@ -1,9 +1,5 @@
 # Desafio AWS CloudFormation - Bootcamp Santander Code Girls 2025
-
-```
-Olá! Bem-vindo(a) ao meu repositório do desafio prático de AWS CloudFormation do Bootcamp Santander Code Girls 2025.
 #CodeGirls2025 #WomenInTech
-```
 
 
 ## Introdução à AWS e Conceitos Básicos
