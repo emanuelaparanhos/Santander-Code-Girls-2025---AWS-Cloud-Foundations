@@ -20,11 +20,19 @@ Este laboratório tem como objetivo de implementar sua primeira Stack com AWS Cl
 
 ## Implementando Stack com AWS CloudFormation
 ###Passo 1 - Acesse CloudFormation na AWS
-   -![IAM Role Criada](01-Acesse_CloudFormation.png)
+![CloudFormation](01-Acesse_CloudFormation.png)
 
-###Passo 2 - Acesse a opção na aba lateral esquerda "Pilhas" e clique em "Criar pilha". Siga de acordo com as figuras abaixo. O nome será desafio_CloudFormation_EC2
+###Passo 2 - Acesse a opção na aba lateral esquerda "Pilhas" e clique em "Criar pilha". Siga de acordo com as figuras abaixo. O nome será desafioCloudFormation-EC2
+-![CriarPilha](01a-Criar_Pilha.png)
+-![CriarPilha2](2-Criar_Pilha.png)
+-![CriarPilha2](2-Criar_Pilha.png)
+-![CriarPilha2](2-Criar_Pilha.png)
+
+###Passo 3 - Visualize a pilha
+-![CriarPilha2](2-Criar_Pilha.png)
 
 ###Passo 3 - Repita o processo para desafio_CloudFormation_Apache e desafio_CloudFormation_Firewall
+-![CriarPilha2](2-Criar_Pilha.png)
 
 
 
