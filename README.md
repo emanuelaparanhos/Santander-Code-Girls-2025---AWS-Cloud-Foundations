@@ -24,12 +24,12 @@ Este laboratório tem como objetivo de implementar sua primeira Stack com AWS Cl
 
 ###Passo 2 - Acesse a opção na aba lateral esquerda "Pilhas" e clique em "Criar pilha". Siga de acordo com as figuras abaixo. O nome será desafioCloudFormation-EC2
 -![CriarPilha](01a-Criar_Pilha.png)
--![CriarPilha1](2-Criar_Pilha.png)
--![CriarPilha2](2a-Criar_Pilha.png)
--![CriarPilha3](2b-Criar_Pilha.png)
+-![CriarPilha1](02-Criar_Pilha.png)
+-![CriarPilha2](02a-Criar_Pilha.png)
+-![CriarPilha3](02b-Criar_Pilha.png)
 
 ###Passo 3 - Visualize a pilha
--![VerPilha2](3-Verr_Pilha.png)
+-![VerPilha2](03-Ver_Pilha.png)
 
 ###Passo 3 - Repita o processo para desafio_CloudFormation_Apache e desafio_CloudFormation_Firewall
 -![CriarPilha2](2-Criar_Pilha.png)
