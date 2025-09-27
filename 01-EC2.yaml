@@ -1,4 +1,4 @@
-# AWS CLOUD FOUNDATION - ALEXSANDRO LECHNER
+###### AWS CLOUD FOUNDATION - ALEXSANDRO LECHNER
 Description: Criar um Amazon EC2 simples
 Resources:
   MinhaInstancia:
