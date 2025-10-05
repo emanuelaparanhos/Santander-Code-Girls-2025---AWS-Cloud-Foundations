@@ -10,7 +10,9 @@ Este laboratório tem como objetivo implementar uma infraestrutura automatizada 
 
 ###Passo 2 - Acesse a opção na aba lateral esquerda "Pilhas" e clique em "Criar pilha". Siga de acordo com as figuras abaixo. O nome será "desafioCloudFormationAutomatizada". será feito o upload do arquivo "stack-automatizada.yaml".
 ![CriarPilha](01a-Criar_Pilha.png)
-![CriarPilha1](02-Criar_Pilha.png)
+![CriarPilha2](02-Criar_Pilha.png)
+![CriarPilha2](02a-Criar_Pilha.png)
+![CriarPilha2](02b-Criar_Pilha.png)
 
 
 ###Passo 3 - Configuração de Parâmetros: Nome stack: stack-automatizada; BucketName: único; CriarBucket: "sim"; Ambiente: "dev" 
