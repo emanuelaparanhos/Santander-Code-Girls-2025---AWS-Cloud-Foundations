@@ -4,6 +4,17 @@ Este laboratório tem como objetivo implementar uma infraestrutura automatizada 
 #CodeGirls2025 #WomenInTech
 
 ## Implementando Stack com AWS CloudFormation Automatizada
+
+###Passo 1 - Acesse CloudFormation na AWS
+![CloudFormation](01-Acesse_CloudFormation.png)
+
+###Passo 2 - Acesse a opção na aba lateral esquerda "Pilhas" e clique em "Criar pilha". Siga de acordo com as figuras abaixo. O nome será desafioCloudFormation-EC2
+![CriarPilha](01a-Criar_Pilha.png)
+![CriarPilha1](02-Criar_Pilha.png)
+![CriarPilha2](02a-Criar_Pilha.png)
+![CriarPilha3](02b-Criar_Pilha.png)
+
+
 ###Passo 1 - Acesse CloudFormation na AWS
 Validação do Template: No CloudFormation Create Stack > Upload YAML > Verifique sintaxe e preview.
 
