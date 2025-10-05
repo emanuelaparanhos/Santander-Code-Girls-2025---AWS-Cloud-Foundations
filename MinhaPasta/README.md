@@ -1,9 +1,9 @@
-# Desafio AWS CloudFormation Automatização - Bootcamp Santander Code Girls 2025
+# Desafio AWS CloudFormation Automatizada - Bootcamp Santander Code Girls 2025
 Este laboratório tem como objetivo implementar uma infraestrutura automatizada com AWS CloudFormation. O entregável é um repositório organizado contendo anotações e insights adquiridos durante a prática, servindo como material de apoio para os seus estudos e futuras implementações.
 
 #CodeGirls2025 #WomenInTech
 
-## Implementando Stack com AWS CloudFormation
+## Implementando Stack com AWS CloudFormation Automatizada
 ###Passo 1 - Acesse CloudFormation na AWS
 Validação do Template: No CloudFormation Create Stack > Upload YAML > Verifique sintaxe e preview.
 
