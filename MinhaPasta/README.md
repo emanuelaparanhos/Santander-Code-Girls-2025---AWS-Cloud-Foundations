@@ -19,6 +19,7 @@ Este laboratório tem como objetivo implementar uma infraestrutura automatizada 
 ![VisualizarPilha](03-Visualizar_Pilha.png)
 
 ###Passo 4 - Verifique S3 e IAM Role
+![Saida](04-Saida.png)
 ![VisualizarBucket](04-Visualizar_Bucket.png)
 ![VisualizarIAM](03-Visualizar_IAM.png)
 
