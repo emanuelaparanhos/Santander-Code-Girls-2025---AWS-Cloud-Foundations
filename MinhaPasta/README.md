@@ -8,21 +8,14 @@ Este laboratório tem como objetivo implementar uma infraestrutura automatizada 
 ###Passo 1 - Acesse CloudFormation na AWS
 ![CloudFormation](01-Acesse_CloudFormation.png)
 
-###Passo 2 - Acesse a opção na aba lateral esquerda "Pilhas" e clique em "Criar pilha". Siga de acordo com as figuras abaixo. O nome será desafioCloudFormation-EC2
+###Passo 2 - Acesse a opção na aba lateral esquerda "Pilhas" e clique em "Criar pilha". Siga de acordo com as figuras abaixo. O nome será "desafioCloudFormationAutomatizada". será feito o upload do arquivo "stack-automatizada.yaml".
 ![CriarPilha](01a-Criar_Pilha.png)
 ![CriarPilha1](02-Criar_Pilha.png)
-![CriarPilha2](02a-Criar_Pilha.png)
-![CriarPilha3](02b-Criar_Pilha.png)
 
 
-###Passo 1 - Acesse CloudFormation na AWS
-Validação do Template: No CloudFormation Create Stack > Upload YAML > Verifique sintaxe e preview.
+###Passo 3 - Configuração de Parâmetros: Nome stack: stack-automatizada; BucketName: único; CriarBucket: "sim"; Ambiente: "dev" 
 
-###Passo 2 - Acesse CloudFormation na AWS
-Configuração de Parâmetros: Nome stack: stack-automatizada; BucketName: único; CriarBucket: "sim"; Ambiente: "dev" 
-
-###Passo 3 - Acesse CloudFormation na AWS
-Deploy e Monitoramento: Crie stack > Eventos: Monitore CREATE_IN_PROGRESS para S3/IAM (condicional ativa). Tempo: 3-5 min 
+###Passo 4 - Deploy e Monitoramento: Crie stack > Eventos: Monitore CREATE_IN_PROGRESS para S3/IAM (condicional ativa). Tempo: 3-5 min 
 
 ###Passo 4 - Acesse CloudFormation na AWS
 Recursos e Tags: Verifique S3 (se criado) com tags; IAM Role com policy 
