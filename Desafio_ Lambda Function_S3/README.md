@@ -19,14 +19,13 @@ Este laboratório tem como objetivo de consolidar seus conhecimentos em tarefas 
 ![CriarRole](2-criar_role5.png)
 
 ###Passo 3 - Criar um Lambda Function
-![VisualizarPilha](03-Visualizar_Pilha.png)
+![CriarLambda](3-criar_lambda.png)
+![CriarLambda](3-criar_lambda2.png)
+![CriarLambda](3-criar_lambda3.png)
+![CriarLambda](3-criar_lambda4.png)
 
-###Passo 4 - Configurar Trigger
-![Saida](04-Saida.png)
-![VisualizarBucket](04-Visualizar_Bucket.png)
-![VisualizarIAM](04-Visualizar_IAM.png)
-
-
-Outputs e Teste: Acesse BucketURL; Teste role assume via AWS CLI (opcional). Upload no S3 para validar 
-Update e Deleção: Para automação, atualize parâmetro (ex.: Ambiente para "prod") – veja diff nos eventos. Delete stack para cleanup.
-
+###Passo 4 - Configurar Gatilho no Lambda Function
+![ConfTrigger](4-confTrigger.png)
+![ConfTrigger](4-confTrigger2.png)
+![ConfTrigger](4-confTrigger3.png)
+![ConfTrigger](4-confTrigger4.png)
