@@ -5,20 +5,23 @@ Este laboratório tem como objetivo de consolidar seus conhecimentos em tarefas 
 
 ## Implementando Tarefas Automatizadas com Lambda Function e S3
 
-###Passo 1 - Acesse CloudFormation na AWS
-![CloudFormation](01-Acesse_CloudFormation.png)
+###Passo 1 - Crie um Bucket S3 na AWS ou tilizar um existente
+![CriarS3](1-criar_S3.png)
+![CriarS3](1-criar_S32.png)
+![CriarS3](1-criar_S33.png)
+![CriarS3](1-criar_S34.png)
 
-###Passo 2 - Acesse a opção na aba lateral esquerda "Pilhas" e clique em "Criar pilha". Siga de acordo com as figuras abaixo. O nome será "desafioCloudFormationAutomatizada". Faça o upload do arquivo "automatizada.yaml" (lembre-se de alterar o nome do bucket para um nome único, sem maiúsculas e _).
-![CriarPilha](01a-Criar_Pilha.png)
-![CriarPilha2](02-Criar_Pilha.png)
-![CriarPilha2](02a-Criar_Pilha.png)
-![CriarPilha2](02b-Criar_Pilha.png)
+###Passo 2 - Crie uma função IAM na AWS
+![CriarRole](2-criar_role.png)
+![CriarRole](2-criar_role2.png)
+![CriarRole](2-criar_role3.png)
+![CriarRole](2-criar_role4.png)
+![CriarRole](2-criar_role5.png)
 
-
-###Passo 3 - Visualize a Pilha recém criada e vá a aba Eventos: Monitore CREATE_IN_PROGRESS para S3/IAM (condicional ativa). Tempo: 3-5 min 
+###Passo 3 - Criar um Lambda Function
 ![VisualizarPilha](03-Visualizar_Pilha.png)
 
-###Passo 4 - Obeserve as saídas geradas. Verifique S3 e IAM Role
+###Passo 4 - Configurar Trigger
 ![Saida](04-Saida.png)
 ![VisualizarBucket](04-Visualizar_Bucket.png)
 ![VisualizarIAM](04-Visualizar_IAM.png)
