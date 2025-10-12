@@ -33,6 +33,7 @@ Este laboratório tem como objetivo de consolidar seus conhecimentos em tarefas 
 
 ###Passo 5 - Validar a automatização fazendo upload de arquivo e verificando logs no CloudWatch
 ![Validar](5-validar.png)
+![Validar](5-validar1.png)
 ![Validar](5-validar2.png)
 ![Validar](5-validar3.png)
 ![Validar](5-validar4.png)
